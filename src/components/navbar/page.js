@@ -6,7 +6,7 @@ import {Montserrat} from 'next/font/google';
 import localFont from 'next/font/local';
 
 const sam=localFont({
-    src:'./samarkand.ttf',
+    src:'/samarkand.ttf',
     display:'swap',
 })
 

@@ -12,7 +12,9 @@ const Agbal=Agbalumo({
 })
 
 const sam=localFont({
-  src:'./samarkand.ttf',
+  src:[{
+    path:'samarkand.ttf'
+  }],
   display:'swap',
 })
 
